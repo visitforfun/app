@@ -1,0 +1,37 @@
+{
+  "namespace": "App",
+  "fsNamespace": "app",
+  "loader": "../app.js",
+  "global": "app.global.js",
+  "core": "app.av1ie8bq.js",
+  "corePolyfilled": "app.hjjxlqdq.js",
+  "components": {
+    "app-root": {
+      "bundleIds": {
+        "$": "3rltnry9"
+      },
+      "encapsulation": "shadow"
+    },
+    "mu-svg-screen": {
+      "bundleIds": {
+        "$": "3rltnry9"
+      },
+      "encapsulation": "shadow"
+    },
+    "stencil-route": {
+      "bundleIds": {
+        "$": "3rltnry9"
+      }
+    },
+    "stencil-route-switch": {
+      "bundleIds": {
+        "$": "3rltnry9"
+      }
+    },
+    "stencil-router": {
+      "bundleIds": {
+        "$": "3rltnry9"
+      }
+    }
+  }
+}
