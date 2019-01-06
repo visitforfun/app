@@ -10,7 +10,7 @@
     "test.watch": "stencil test --spec --e2e --watchAll"
   },
   "dependencies": {
-    "@mu-lib/mu-svg-screen": "^0.1.1",
+    "@mu-lib/mu-svg-screen": "^0.1.2",
     "@stencil/core": "^0.16.1",
     "@stencil/router": "^0.3.1"
   },
