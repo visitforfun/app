@@ -3,34 +3,34 @@
   "fsNamespace": "app",
   "loader": "../app.js",
   "global": "app.global.js",
-  "core": "app.av1ie8bq.js",
-  "corePolyfilled": "app.hjjxlqdq.js",
+  "core": "app.znnfg0sk.js",
+  "corePolyfilled": "app.bqwbw2gu.js",
   "components": {
     "app-root": {
       "bundleIds": {
-        "$": "3rltnry9"
+        "$": "jrdshpab"
       },
       "encapsulation": "shadow"
     },
     "mu-svg-screen": {
       "bundleIds": {
-        "$": "3rltnry9"
+        "$": "jrdshpab"
       },
       "encapsulation": "shadow"
     },
     "stencil-route": {
       "bundleIds": {
-        "$": "3rltnry9"
+        "$": "jrdshpab"
       }
     },
     "stencil-route-switch": {
       "bundleIds": {
-        "$": "3rltnry9"
+        "$": "jrdshpab"
       }
     },
     "stencil-router": {
       "bundleIds": {
-        "$": "3rltnry9"
+        "$": "jrdshpab"
       }
     }
   }
